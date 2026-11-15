@@ -63,11 +63,5 @@
   "c_SextansSSR0101_slg_Pearl_da.png": {
     "normal": "maps/c_SextansSSR0101_slg_Pearl_da_n.png"
   },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "丝袜-裤袜P1": {
-      "diffuse": "socks_d.png"
-    }
-  }
+  "disableStocking": true
 }
